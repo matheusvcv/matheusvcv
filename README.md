@@ -8,8 +8,7 @@ Hello, I'm Matheus Viana // Olá, eu sou o Matheus Viana.
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=matheusvcv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"><img height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvcv&layout=compact&langs_count=7&theme=dark">
 </div>
   
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
           
   ##
   
