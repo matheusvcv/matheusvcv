@@ -10,11 +10,17 @@ I’m a web developer, and software development student. // Eu sou um desenvolve
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img align="center" alt="Caroline-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  </a>
 <div align="center">
 <a href="https://github.com/matheusvcv">
 <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=matheusvcv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"><img height="180em"  width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvcv&layout=compact&langs_count=7&theme=dark">
  </div>
+  
+
   
  <h2>How to Reach me::</h2>  
   <a href="https://www.linkedin.com/in/matheusvcv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
